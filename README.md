@@ -11,12 +11,13 @@ Box3Ds FPS is a project for testing graphical performance in a minimalist 3D env
     <strong>Box3Ds FPS</strong>
   </p>
 
-  # Features
+  #Features
 Minimalist 3D environment for performance testing.
-  # Real-time FPS display.
+  #Real-time FPS display.
 Adjustable graphical settings.
-  ## Requirements
+  #Requirements
 Platform: Windows
 
 Download Releases
+
 You can download the latest releases from the Releases page.
