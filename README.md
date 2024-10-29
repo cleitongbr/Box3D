@@ -9,8 +9,8 @@ Adjustable graphical settings.
 Platform: Windows
 
   # Photo
-  /image 1.png
-  /image 2.png
+  image 1.png
+  image 2.png
 git clone https://github.com/cleitongbr/Box3Ds-FPS/
 Open the project in Unity.
 
