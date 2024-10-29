@@ -7,8 +7,10 @@ Minimalist 3D environment for performance testing.
 Adjustable graphical settings.
   # Requirements
 Platform: Windows
-bash
-Copiar código
+
+  # Photo
+  /image 1.png
+  /image 2.png
 git clone https://github.com/cleitongbr/Box3Ds-FPS/
 Open the project in Unity.
 
