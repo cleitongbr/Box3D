@@ -9,7 +9,7 @@ Adjustable graphical settings.
 Platform: Windows
 bash
 Copiar código
-git clone https://github.com/your-username/Box3Ds-FPS/
+git clone https://github.com/cleitongbr/Box3Ds-FPS/
 Open the project in Unity.
 
 Download Releases
