@@ -1,19 +1,31 @@
-<div align="center">
+<h3 align="center">box3d in Python</h3>
 
-  ## Box3Ds FPS
-Box3Ds FPS is a project for testing graphical performance in a minimalist 3D environment made of boxes. It provides real-time FPS measurements and allows users to adjust settings like resolution and texture quality to observe their impact on performance.
+<div align="center">
+  
+Box3Ds FPS is a project for testing graphical performance in a minimalist 3D environment made of boxes.
 <head>
 <img src="./image/image%201.png" width="144"/>
 </head>
 <img src="./image/image%202.png" width="144"/>
 
-  * Features
-Minimalist 3D environment for performance testing.
-  * Real-time FPS display.
-Adjustable graphical settings.
-  * Requirements
-Platform: Windows
+</div>
 
-Download [Releases](https://github.com/cleitongbr/Box3Ds-FPS/releases)
+## How to install, How to use?
+ 1. You can download it from: [GitHub Releases](https://github.com/cleitongbr/Box3Ds-FPS/releases)
+ 2. install it requirements:
+```code
+pip install -r requirements.txt
+```
+3. run box3d:
+```
+python app.py 
+```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cleitongbr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleitongbr_" height="30" width="40" /></a>
+<a href="https://instagram.com/cleitongbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleitongbr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cleitongbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cleitongbr" height="30" width="40" /></a>
+</p>
 
-You can download the latest releases from the Releases page.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
