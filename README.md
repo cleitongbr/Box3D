@@ -20,6 +20,15 @@ pip install -r requirements.txt
 ```
 python app.py 
 ```
+
+## automatic installation  ( windows,Linux )
+* open start.bat is running normal. 
+* open start.sh user linux
+```
+chmod +x start.sh
+./start.sh
+```
+ done! 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cleitongbr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleitongbr_" height="30" width="40" /></a>
