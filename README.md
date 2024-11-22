@@ -11,7 +11,7 @@ Box3Ds FPS is a project for testing graphical performance in a minimalist 3D env
 </div>
 
 ## How to install, How to use?
- 1. You can download it from: [release v0.2]([https://github.com/cleitongbr/Box3Ds-FPS/releases](https://github.com/cleitongbr/Box3D/releases/tag/v0.2))
+ 1. You can download it from: [release v0.2]([https://github.com/cleitongbr/Box3Ds-FPS/releases](https://github.com/cleitongbr/Box3D/releases/tag/v0.2)
  2. install it requirements:
 ```code
 pip install -r requirements.txt
