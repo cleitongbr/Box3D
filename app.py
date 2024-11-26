@@ -97,10 +97,10 @@ while running:
         pygame.draw.line(screen, WHITE, projected_points[start], projected_points[end], 2)
 
     font = pygame.font.SysFont("Arial", 24)
-    fps_text = font.render(f"FPS: {int(fps)} | V-Sync: {'ON' if vsync_enabled else 'OFF'}", True, WHITE)
+    fps_text = font.render(f"FPS: {int(fps)} | V-Sync: {'true' if vsync_enabled else 'false'}", True, WHITE)
     screen.blit(fps_text, (10, 10))
 
     pygame.display.flip()
 
-# Encerra o pygame
+# quit in pygame 
 pygame.quit()
