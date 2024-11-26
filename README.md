@@ -23,7 +23,7 @@ python app.py
 ```
 
 ## automatic install requirements.txt
-* open start.bat ( WINDOOWS )
+* open start.bat ( WINDOWS )
 * open start.sh ( LINUX )
 ```
 chmod +x start.sh
