@@ -1,28 +1,28 @@
 #!/bin/bash
 
-# Verificar se o Python está instalado
+# Check if Python is installed
 if ! command -v python3 &> /dev/null
 then
-    echo "Python não está instalado ou não foi adicionado ao PATH."
+    echo "Python is not installed or has not been added to the PATH."
     exit 1
 fi
 
-# Instalar dependências do requirements.txt
-echo "Instalando dependências..."
+# Install dependencies from requirements.txt
+echo "Installing dependencies..."
 pip3 install -r requirements.txt
 if [ $? -ne 0 ]; then
-    echo "Falha ao instalar as dependências do requirements.txt."
+    echo "Failed to install dependencies from requirements.txt."
     exit 1
 fi
 
-# Executar o app.py
-echo "Iniciando a aplicação..."
+# start the app.py
+echo "Starting the application..."
 python3 app.py
 if [ $? -ne 0 ]; then
-    echo "Ocorreu um erro ao executar o app.py."
+    echo "An error occurred while executing app.py."
     exit 1
 fi
 
-# Manter o terminal aberto
-echo "Aplicação encerrada. Pressione qualquer tecla para continuar..."
+# Keep the terminal open
+echo "Application closed. Press any key to continue..."
 read -n 1
