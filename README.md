@@ -10,6 +10,8 @@ Box3Ds FPS is a project for testing graphical performance in a minimalist 3D env
 
 </div>
 
+[Video here](https://www.youtube.com/watch?v=ip1_1trOIYE)
+
 ## How to install, How to use?
  1. first install python your on computer from [Download python](https://www.python.org/downloads/)
  2. You can download it from: [release v0.1.1](https://github.com/cleitongbr/Box3D/releases/)
